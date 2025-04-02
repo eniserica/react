@@ -1,0 +1,12 @@
+
+.titulo{
+    color:tomato;
+    background-color: aqua;
+}
+
+.container{
+    display: flex;
+    align-items: center;
+    background-color: bisque;
+
+}
